@@ -69,7 +69,7 @@
 				<div class="row">
 					<div class="col-md-4">
 						<p class="embed-responsive embed-responsive-16by9">
-							<iframe class="embed-responsive-item" src="//www.youtube.com/embed/dQw4w9WgXcQrel=0" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 						</p>
 					</div>
 				</div>
@@ -207,9 +207,9 @@
 			<div class="row">
 				<div class="col-md-12">
 					<h2><strong>Reflections From Capstone Team Game </strong></h2>
-					<p><strong>Michelle</strong>- she is </p>
-					<p><strong>Lonora</strong>- </p>
-					<p><strong>Steven</strong>- </p>
+					<p><strong>Michelle</strong>- She was engaged and dedicated to winning the game. She is not hesitant to voice her opinion when she needed to, but she was also comfortable listening to others.</p>
+					<p><strong>Lonora</strong>- She had a take charge attitude and was motivated to win.</p>
+					<p><strong>Steven</strong>- He is reserved and thoughtful. When he has the right answer he doesn't hesitate to let everybody know.</p>
 				</div>
 			</div>
 		</div>

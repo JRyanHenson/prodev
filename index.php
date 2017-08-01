@@ -66,6 +66,13 @@
 					<h2>Career Buddy</h2>
 					<p>My career buddy is Tim Williams</p>
 				</div>
+				<div class="row">
+					<div class="col-md-4">
+						<p class="embed-responsive embed-responsive-16by9">
+							<iframe class="embed-responsive-item" src="//www.youtube.com/embed/dQw4w9WgXcQrel=0" allowfullscreen></iframe>
+						</p>
+					</div>
+				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-2 col-md-offset-10">
@@ -73,8 +80,11 @@
 				</div>
 			</div>
 			<div class="row">
+					<h2 class="text-center">Resume</h2>
+			</div>
+			<div class="row">
 				<div class="col-md-4">
-					<h2><strong>Ryan Henson</strong></h2>
+					<h3><strong>Ryan Henson</strong></h3>
 					<p>4228 Courtney Ave NE	</p>
 					<p>Albuquerque, NM 87108</p>
 					<p>(505) 796-2961</p>
@@ -86,7 +96,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<h2><strong>Qualification Summary</strong></h2>
+					<h3><strong>Qualification Summary</strong></h3>
 					<ul>
 						<li>Dedicated professional with strong management, communication, and team building skills</li>
 						<li>Passionate and seasoned information security engineer</li>
@@ -97,7 +107,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-				<h2><strong>Technical Skills</strong></h2>
+				<h3><strong>Technical Skills</strong></h3>
 				<ul>
 					<li>Servers and OSs: Red Hat Server, Kali Linux, Ubuntu Linux, CISCO IOS, VMWare ESXi, Microsoft Windows Server</li>
 					<li>Tools: Nessus Security Center, Kali Security Suite, NMAP, Wireshark, Snort, Security Compliance Checker (SCC)</li>
@@ -107,5 +117,101 @@
 				</ul>
 				</div>
 			</div>
+			<h3><strong>Certifications</strong></h3>
+			<table class="table">
+				<tr>
+					<td>(ISC)2</td>
+					<td>Certified Information System Security Professional (CISSP)</td>
+					<td>2015</td>
+				<tr/>
+				<tr>
+					<td>CISCO</td>
+					<td>Certified Cisco Network Associate (CCNA)</td>
+					<td>2016</td>
+				<tr/>
+				<tr>
+					<td>CISCO</td>
+					<td>CCNA Security</td>
+					<td>2016</td>
+				<tr/>
+				<tr>
+					<td>EC-Council</td>
+					<td>Certified Ethical Hacker (CEH)</td>
+					<td>2017</td>
+				<tr/>
+			</table>
+			<div class="row">
+				<div class="col-md-12">
+					<h3><strong>Education</strong></h3>
+					<p>University of New Haven, New Haven, CT</p>
+					<p>M.S. National Security and Public Safety - Concentration in Information Protection and Security (4.0 GPA)</p>
+					<p>Bellevue University, Bellevue, NE</p>
+					<p>B.S. Computer Information Systems – Concentration in System and Network Administration (3.6 GPA) </p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<h3><strong>Professional Expereience</strong></h3>
+					<p>Project Manager and Information Security Engineer, American Systems Corporation, Albuquerque, NM 03/15-Current</p>
+					<ul>
+						<li>Leads information security assessments of information systems to support RMF accreditation efforts.</li>
+						<li>Provides analysis of security posture culminating in risk determination and security control recommendations.</li>
+						<li>Provides specific technical recommendations for the engineering of the information security capabilities.</li>
+						<li>Responsible for building, configuring, and maintaining web application servers in Amazon Web Services EC2/S3.</li>
+						<li>Technologies used: Red Hat Linux, Windows, Nessus Security Center, SCC, Kali, NMAP, Wireshark, CISCO IOS, Bash, Python, PHP, HTML5, CSS, git, and Java Script</li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<p>Lead Systems Administrator and Information Security Analyst, SAIC-Sandia National Labs, Albuquerque, NM 02/11-03/15</p>
+					<ul>
+						<li>Responsible for the installation, configuration and maintenance of over 50 physical and virtual servers.</li>
+						<li>Key in the planning, development, implementation, security, and maintenance of virtual environments.</li>
+						<li>Configured and managed Microsoft Group Policy Objects for numerous Organizational Units.</li>
+						<li>Managed the Sandia Partnering Network vulnerability management program reporting to the Information Assurance Response Center in compliance with Computer Network Defense Services Provider.</li>
+						<li>Planed, coordinated, and validated vulnerability and compliance management for entire enterprise network.</li>
+						<li>Technologies Used: Microsoft Windows Servers, PowerShell, Batch, VMWare ESXi, Snort Instruction Detection, Nessus Security Center</li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<p>Lead System Administrator, Trofholz Technologies Inc.-National Assessment Group, Albuquerque, NM 09/09-02/11</p>
+					<ul>
+						<li>Supervised a team of four server and network administrators in the performance of their duties.</li>
+						<li>Managed Windows 2008 and 2003 servers on a multitude of enterprise level and local area networks.</li>
+						<li>Performed server backups and data recovery utilizing Symantec and other non-vendor specific tools.</li>
+						<li>Developed network and server documentation for local continuity, accreditation and system-life-cycle.</li>
+						<li>Technologies used:</li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<p>Information System Security Officer, United States Navy – U.S. Strategic Command, Omaha, NE 09/06-09/09</p>
+					<ul>
+						<li>Ensured all computer security requirements were maintained and provided information security training.</li>
+						<li>Provided expertise in the implementation of technical and non-technical security policies on 120 systems.</li>
+						<li>Evaluated certification/accreditation documentation for compliance with applicable security requirements.</li>
+						<li>Participated in Change Management and Configuration Management control boards.</li>
+						<li>Performed security analysis on all servers and workstations through automated and manual tools.</li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2 col-md-offset-10">
+					<h2>8/1/17</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<h2><strong>Reflections From Capstone Team Game </strong></h2>
+					<p><strong>Michelle</strong>- she is </p>
+					<p><strong>Lonora</strong>- </p>
+					<p><strong>Steven</strong>- </p>
+				</div>
+			</div>
+		</div>
 	</body>
 </html>

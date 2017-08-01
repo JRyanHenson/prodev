@@ -123,22 +123,22 @@
 					<td>(ISC)2</td>
 					<td>Certified Information System Security Professional (CISSP)</td>
 					<td>2015</td>
-				<tr/>
+				</tr>>
 				<tr>
 					<td>CISCO</td>
 					<td>Certified Cisco Network Associate (CCNA)</td>
 					<td>2016</td>
-				<tr/>
+				</tr>
 				<tr>
 					<td>CISCO</td>
 					<td>CCNA Security</td>
 					<td>2016</td>
-				<tr/>
+				</tr>
 				<tr>
 					<td>EC-Council</td>
 					<td>Certified Ethical Hacker (CEH)</td>
 					<td>2017</td>
-				<tr/>
+				</tr>
 			</table>
 			<div class="row">
 				<div class="col-md-12">

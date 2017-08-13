@@ -123,7 +123,7 @@
 					<td>(ISC)2</td>
 					<td>Certified Information System Security Professional (CISSP)</td>
 					<td>2015</td>
-				</tr>>
+				</tr>
 				<tr>
 					<td>CISCO</td>
 					<td>Certified Cisco Network Associate (CCNA)</td>
@@ -210,6 +210,26 @@
 					<p><strong>Michelle</strong>- She was engaged and dedicated to winning the game. She is not hesitant to voice her opinion when she needed to, but she was also comfortable listening to others.</p>
 					<p><strong>Lonora</strong>- She had a take charge attitude and was motivated to win.</p>
 					<p><strong>Steven</strong>- He is reserved and thoughtful. When he has the right answer he doesn't hesitate to let everybody know.</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2 col-md-offset-10">
+					<h2>8/11/17</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<h2><strong>Interview Question Responses</strong></h2>
+					<h3>Internal factors keeping me from my goals?</h3>
+					<p>-Self-doubt</p>
+					<p>-My bum appendix</p>
+					<h3>External factors keeping me form my goals?</h3>
+					<p>-Obligations competing with personal time needed to add to technical skillset</p>
+					<h3>How do I personally create value for others?</h3>
+					<p>-I’m dedicated to accomplishing tasks</p>
+					<p>-I take pride in the things I do and try to return quality work</p>
+					<h3>Has anybody ever told you, you have potential before?</h3>
+					<p>-Yes, maybe a few years ago. I do think I have potential. I just need to zero in on where I want my career to go.</p>
 				</div>
 			</div>
 		</div>
